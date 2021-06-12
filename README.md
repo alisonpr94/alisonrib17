@@ -7,12 +7,23 @@
 - 📈 I’m constantly learning and Improving my skills.
 - 📊 In the team environment I am always willing to learn and help my coworkers.
 
+
+### Skills
+- Python Libs: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, NLTK, Tensorflow/Keras, PyTorch, Transformers, Librosa.
+- Sentiment Analysis: stemming, lemmatization, stop words, part-of-speech, bag of words, word embeddings, cross-validation, lexicon dictionary, feature selection.
+- Word representations: Word2Vec, Glove, FastText e Wang2Vec.
+- Language Models: BERT and ELMo (still learning).
+- Machine Learning: Decision Tree, Logistic Regression, Random Forest, SVM, Naive Bayes, KNN and Ensemble methods.
+- Deep Learning: MLP, CNN, RNN (LSTM and BiLSTM).
+- Digital Signal Processing: Theoretical and practical knowledge in audio feature extraction techniques. The main methods are: MFCC, Mel-spectrogram and Spectrogram.
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/alison-ribeiro-2b2815147/)
 
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/alisonpr_/)
+[<img align="left" alt="alison_ribeiro | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/alisonpr_/)
 
+[<img align="left" alt="alison_ribeiro | Lattes" width="22px" src="encurtador.com.br/fquAI" />](http://lattes.cnpq.br/7550316070980159)
 
 
 <br />
