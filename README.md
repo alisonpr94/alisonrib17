@@ -4,7 +4,7 @@
 
 - 💻 I’m a Computer Scientist
 - 💻 I'm also working as a machine learning and NLP researcher.
-- 📈 I’m constantly learning and Improving my skills.
+- 📈 I’m constantly learning and improving my skills.
 - 📊 In the team environment I am always willing to learn and help my coworkers.
 
 
