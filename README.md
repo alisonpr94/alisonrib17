@@ -1,5 +1,3 @@
-### Seja bem-vindo(a) 👋
-
 ### Alison P. Ribeiro - [Computer Scientist] 👋
 
 ### I am a Computer Scientist who loves Artificial Intelligence and everything that surrounds this amazing world. I'm always learning new tools to stay up to date.
