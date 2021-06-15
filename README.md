@@ -27,7 +27,6 @@
 
 [<img align="left" alt="alison_ribeiro | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/alisonpr_/)
 
-
 <br />
 
 ### Languages and Tools:
