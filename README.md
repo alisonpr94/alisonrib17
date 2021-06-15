@@ -19,6 +19,7 @@
 
 [![alisonrib17 GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonrib17)](https://github.com/alisonrib17/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrib17&langs_count=5)](https://github.com/alisonrib17/github-readme-stats)
 
 ### Connect with me:
 
