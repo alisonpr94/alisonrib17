@@ -17,6 +17,9 @@
 - **Deep Learning:** MLP, CNN, RNN (LSTM and BiLSTM).
 - **Digital Signal Processing:** Theoretical and practical knowledge in audio feature extraction techniques. The main methods are: MFCC, Mel-spectrogram and Spectrogram.
 
+[![alisonrib17 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/alison-ribeiro-2b2815147/)
