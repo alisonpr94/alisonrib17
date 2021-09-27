@@ -19,6 +19,13 @@
 
 [![alisonrib17 github stats](https://github-readme-stats.vercel.app/api?username=alisonrib17&count_private=true&show_icons=true&theme=buefy)](https://github.com/alisonrib17/github-readme-stats)
 
+
+<div>
+  <a href="https://beacons.ai/alisonrib17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonrib17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrib17&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonrib17&count_private=true&langs_count=3&theme=buefy)](https://github.com/alisonrib17/github-readme-stats)
 
 ### Connect with me:
