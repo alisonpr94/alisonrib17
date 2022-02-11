@@ -2,10 +2,10 @@
 
 ### I am a Computer Scientist who loves Artificial Intelligence and everything that surrounds this amazing world. I'm always learning new tools to stay up to date.
 
-- 💻 I’m a Computer Scientist
-- 💻 I'm also working as a machine learning and NLP researcher.
-- 📈 I’m constantly learning and improving my skills.
-- 📊 In the team environment I am always willing to learn and help my coworkers.
+- 💻 I’m a Computer Scientist;
+- 💻 I currently work as a Data Scientist;
+- 📈 I’m constantly learning and improving my skills;
+- 📊 In the team environment I am always willing to learn and help my coworkers;
 
 
 ### Skills
@@ -49,7 +49,5 @@
 
 <br />
 <br />
-
- ![Snake animation](https://github.com/alisonrib17/alisonrib17/blob/output/github-contribution-grid-snake.svg)
 
 ---
